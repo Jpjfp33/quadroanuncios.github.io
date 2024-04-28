@@ -1,0 +1,17 @@
+body {
+border: solid;
+border-radius: 10px;
+
+}
+
+.abc {
+    background-color: olivedrab;
+
+}
+
+.def {
+    border: solid;
+    border-radius: 10px;
+    border-color: blueviolet;
+
+}
