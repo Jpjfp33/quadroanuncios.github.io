@@ -5,14 +5,15 @@ border-radius: 10px;
 }
 
 .abc {
-    background-color: olivedrab;
+    background-color: gold;
 
 }
 
 .def {
     border: solid;
     border-radius: 10px;
-    border-color: blueviolet;
+    border-color: slategray;
+    border-width: 5px;
 
 }
 
